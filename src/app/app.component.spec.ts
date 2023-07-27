@@ -1,3 +1,5 @@
+ /* To learn more about this file see: https://angular.io/config/tsconfig. */
+
 import { TestBed } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { AppComponent } from './app.component';
